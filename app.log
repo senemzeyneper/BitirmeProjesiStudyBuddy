@@ -1,0 +1,17 @@
+2026-01-19 07:55:18,678 - INFO - REGISTER SUCCESS: sezer@gmail.com
+2026-01-19 07:55:35,881 - INFO - LOGIN SUCCESS: sezer@gmail.com
+2026-01-19 07:56:14,841 - INFO - DECK CREATED: user=10, name=Python
+2026-01-19 07:58:21,147 - INFO - LOGIN SUCCESS: sezer@gmail.com
+2026-01-19 07:58:57,184 - INFO - CARD CREATED: deck_id=13, card_id=38
+2026-01-19 07:59:18,848 - INFO - CARD CREATED: deck_id=13, card_id=39
+2026-01-19 07:59:53,711 - INFO - CARD CREATED: deck_id=13, card_id=40
+2026-01-19 08:00:35,286 - INFO - CARD CREATED: deck_id=13, card_id=41
+2026-01-19 08:00:55,828 - INFO - CARD DELETED: card_id=41
+2026-01-19 08:02:32,151 - INFO - LOGIN SUCCESS: bulut@gmail.com
+2026-01-19 08:02:46,303 - INFO - REVIEW: user=7, card=27, quality=5
+2026-01-19 08:02:54,924 - INFO - REVIEW: user=7, card=28, quality=3
+2026-01-19 08:03:04,228 - INFO - REVIEW: user=7, card=29, quality=2
+2026-01-19 08:04:20,689 - INFO - DECK CREATED: user=7, name=Python
+2026-01-19 08:04:41,048 - INFO - CARD CREATED: deck_id=14, card_id=42
+2026-01-19 08:05:00,759 - INFO - CARD CREATED: deck_id=14, card_id=43
+2026-01-19 08:05:25,080 - INFO - CARD CREATED: deck_id=14, card_id=44
