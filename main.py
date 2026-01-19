@@ -65,7 +65,7 @@ while True:
             for d in decks:
                 print(f"{d['id']} - {d['name']}  - {d['description']}")
 
-            deck_id = int(input("Kart eklenecek deste numarası: "))
+            deck_id = int(input("Güncellenecek deste numarası: "))
 
             if not any(d["id"] == deck_id for d in decks):
                 print(" Bu sizin desteniz değildir.")
