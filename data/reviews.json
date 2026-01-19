@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "user_id": 6,
+    "card_id": 1,
+    "quality": 4,
+    "reviewed_at": "2026-01-19T04:12:25.013974"
+  },
+  {
+    "id": 2,
+    "user_id": 6,
+    "card_id": 2,
+    "quality": 3,
+    "reviewed_at": "2026-01-19T04:12:36.576557"
+  },
+  {
+    "id": 3,
+    "user_id": 3,
+    "card_id": 3,
+    "quality": 4,
+    "reviewed_at": "2026-01-19T04:15:56.997606"
+  },
+  {
+    "id": 4,
+    "user_id": 3,
+    "card_id": 4,
+    "quality": 3,
+    "reviewed_at": "2026-01-19T04:16:11.171259"
+  },
+  {
+    "id": 5,
+    "user_id": 4,
+    "card_id": 5,
+    "quality": 2,
+    "reviewed_at": "2026-01-19T04:18:35.812878"
+  },
+  {
+    "id": 6,
+    "user_id": 4,
+    "card_id": 6,
+    "quality": 5,
+    "reviewed_at": "2026-01-19T04:18:42.300688"
+  },
+  {
+    "id": 7,
+    "user_id": 4,
+    "card_id": 7,
+    "quality": 4,
+    "reviewed_at": "2026-01-19T04:18:49.144840"
+  },
+  {
+    "id": 8,
+    "user_id": 2,
+    "card_id": 8,
+    "quality": 5,
+    "reviewed_at": "2026-01-19T04:22:16.332618"
+  },
+  {
+    "id": 9,
+    "user_id": 2,
+    "card_id": 9,
+    "quality": 3,
+    "reviewed_at": "2026-01-19T04:22:23.120087"
+  },
+  {
+    "id": 10,
+    "user_id": 9,
+    "card_id": 10,
+    "quality": 3,
+    "reviewed_at": "2026-01-19T04:26:17.813419"
+  },
+  {
+    "id": 11,
+    "user_id": 9,
+    "card_id": 11,
+    "quality": 2,
+    "reviewed_at": "2026-01-19T04:26:23.899544"
+  },
+  {
+    "id": 12,
+    "user_id": 9,
+    "card_id": 12,
+    "quality": 5,
+    "reviewed_at": "2026-01-19T04:26:30.808692"
+  },
+  {
+    "id": 13,
+    "user_id": 8,
+    "card_id": 13,
+    "quality": 5,
+    "reviewed_at": "2026-01-19T04:29:44.828684"
+  },
+  {
+    "id": 14,
+    "user_id": 8,
+    "card_id": 14,
+    "quality": 2,
+    "reviewed_at": "2026-01-19T04:29:56.035962"
+  },
+  {
+    "id": 15,
+    "user_id": 8,
+    "card_id": 15,
+    "quality": 4,
+    "reviewed_at": "2026-01-19T04:30:16.172710"
+  },
+  {
+    "id": 16,
+    "user_id": 5,
+    "card_id": 16,
+    "quality": 5,
+    "reviewed_at": "2026-01-19T04:46:18.204102"
+  },
+  {
+    "id": 17,
+    "user_id": 5,
+    "card_id": 17,
+    "quality": 3,
+    "reviewed_at": "2026-01-19T04:46:33.721548"
+  },
+  {
+    "id": 18,
+    "user_id": 5,
+    "card_id": 18,
+    "quality": 2,
+    "reviewed_at": "2026-01-19T04:46:44.172818"
+  },
+  {
+    "id": 19,
+    "user_id": 7,
+    "card_id": 19,
+    "quality": 3,
+    "reviewed_at": "2026-01-19T04:49:09.403158"
+  },
+  {
+    "id": 20,
+    "user_id": 7,
+    "card_id": 20,
+    "quality": 5,
+    "reviewed_at": "2026-01-19T04:59:36.091768"
+  },
+  {
+    "id": 21,
+    "user_id": 7,
+    "card_id": 21,
+    "quality": 3,
+    "reviewed_at": "2026-01-19T04:59:46.845569"
+  },
+  {
+    "id": 22,
+    "user_id": 1,
+    "card_id": 22,
+    "quality": 5,
+    "reviewed_at": "2026-01-19T05:50:50.215049"
+  },
+  {
+    "id": 23,
+    "user_id": 1,
+    "card_id": 23,
+    "quality": 5,
+    "reviewed_at": "2026-01-19T05:55:30.734632"
+  },
+  {
+    "id": 24,
+    "user_id": 7,
+    "card_id": 27,
+    "quality": 5,
+    "reviewed_at": "2026-01-19T08:02:46.301903"
+  },
+  {
+    "id": 25,
+    "user_id": 7,
+    "card_id": 28,
+    "quality": 3,
+    "reviewed_at": "2026-01-19T08:02:54.922832"
+  },
+  {
+    "id": 26,
+    "user_id": 7,
+    "card_id": 29,
+    "quality": 2,
+    "reviewed_at": "2026-01-19T08:03:04.227713"
+  }
+]

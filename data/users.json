@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "email": "zeynep@gmail.com",
+    "salt": "b16b7e62eea37be192449fafe46f5b22",
+    "password_hash": "b4cc9517c54d9749ede56a41076514feee638062783ab97161dfe4e2488d019a",
+    "created_at": "2026-01-19T03:58:04.416891"
+  },
+  {
+    "id": 2,
+    "email": "kudret@gmail.com",
+    "salt": "79da169fe12fb9ec8776724b5e1e6135",
+    "password_hash": "31a59cca2452914a06affd1220e3ef7194ce810e0d6cfbf8c50a20cc0c71957e",
+    "created_at": "2026-01-19T03:58:33.787921"
+  },
+  {
+    "id": 3,
+    "email": "hatice@gmail.com",
+    "salt": "bb2468ba62836c627db889c2cd947684",
+    "password_hash": "04fa7f1675ffd8f5075c7dd9a716fcc73bc74d6676d530967b0a702504f7f510",
+    "created_at": "2026-01-19T03:58:53.131073"
+  },
+  {
+    "id": 4,
+    "email": "merve@gmail.com",
+    "salt": "608bf9a9cc23dd377c67bc2a8a3266bf",
+    "password_hash": "9258f47f4040fbbfcf85f3fa07702da072a96aa984db39e576891b512be05c9c",
+    "created_at": "2026-01-19T03:59:08.474279"
+  },
+  {
+    "id": 5,
+    "email": "ali@gmail.com",
+    "salt": "b720a75fd29f91fd3fd66550fb42745e",
+    "password_hash": "5bd19ece2bb0b49ec6fb172d145c3f25d74d5e1f265cd6ff8b6173594e1f0b6a",
+    "created_at": "2026-01-19T03:59:20.501959"
+  },
+  {
+    "id": 6,
+    "email": "aras@gmail.com",
+    "salt": "f7b21e229f77912c805c0cd1567994be",
+    "password_hash": "01b37cd8f2fe95c61f0b705ff4ef9e7d2f0865c1a6aa61573c8e36db7bf7e895",
+    "created_at": "2026-01-19T03:59:35.774204"
+  },
+  {
+    "id": 7,
+    "email": "bulut@gmail.com",
+    "salt": "02530490394107486f52c78eeb0558e5",
+    "password_hash": "9822ed6df830bf6231943e934b5007957a531c63d5a61d448729f0746602b339",
+    "created_at": "2026-01-19T03:59:57.031968"
+  },
+  {
+    "id": 8,
+    "email": "harun@gmail.com",
+    "salt": "c61f8821e3fdc26eff45b0a463a93d07",
+    "password_hash": "fa2f325a111d3a3af50e3fbb19f0d2658cdc07305b4191a1ea4e8d77d4fd46b3",
+    "created_at": "2026-01-19T04:00:57.386336"
+  },
+  {
+    "id": 9,
+    "email": "gece@gmail.com",
+    "salt": "2d31307a7c207d64660c5bb527528852",
+    "password_hash": "0be0b47d91bd3617a0a4a87b467e0602f9f8753a0c713972e0301998a3a53914",
+    "created_at": "2026-01-19T04:01:46.062210"
+  },
+  {
+    "id": 10,
+    "email": "sezer@gmail.com",
+    "salt": "f0d45ad970ac3054dc30d2a72da46967",
+    "password_hash": "027af5df7fec17c54c341b5acf4416ccd7e917e6a01472924470548ba585fd17",
+    "created_at": "2026-01-19T07:55:18.676298"
+  }
+]

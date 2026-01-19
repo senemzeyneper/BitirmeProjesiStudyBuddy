@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "name": "Python",
+    "description": "Numpy"
+  },
+  {
+    "id": 2,
+    "user_id": 6,
+    "name": "Derin öğrenme",
+    "description": "CNN"
+  },
+  {
+    "id": 3,
+    "user_id": 3,
+    "name": "Derin öğrenme",
+    "description": "ANN"
+  },
+  {
+    "id": 4,
+    "user_id": 4,
+    "name": "Python",
+    "description": "OOP"
+  },
+  {
+    "id": 5,
+    "user_id": 2,
+    "name": "Python",
+    "description": "Pandas"
+  },
+  {
+    "id": 6,
+    "user_id": 9,
+    "name": "Python",
+    "description": "Matplotlib"
+  },
+  {
+    "id": 7,
+    "user_id": 8,
+    "name": "Python",
+    "description": "Kontrol Yapıları"
+  },
+  {
+    "id": 10,
+    "user_id": 1,
+    "name": "Python",
+    "description": "Değişkenler"
+  },
+  {
+    "id": 11,
+    "user_id": 5,
+    "name": "Python",
+    "description": "Veri Tipleri"
+  },
+  {
+    "id": 12,
+    "user_id": 5,
+    "name": "Python",
+    "description": "Operatörler"
+  },
+  {
+    "id": 13,
+    "user_id": 10,
+    "name": "Python",
+    "description": "Fonksiyonlar"
+  },
+  {
+    "id": 14,
+    "user_id": 7,
+    "name": "Python",
+    "description": "Listeler"
+  }
+]

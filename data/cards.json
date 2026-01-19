@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "deck_id": 1,
+    "front": "Numpy nedir?",
+    "back": "Numpy (Numerical Python), Python programlama dilinde sayısal ve bilimsel hesaplamalar yapmak için kullanılan temel bir kütüphanedir.",
+    "created_at": "2026-01-19T04:04:07.661028"
+  },
+  {
+    "id": 2,
+    "deck_id": 1,
+    "front": "ndarray nedir?",
+    "back": "NumPy’nin temel veri yapısıdır. Aynı tipte verileri çok boyutlu diziler halinde tutar.",
+    "created_at": "2026-01-19T04:04:53.743158"
+  },
+  {
+    "id": 3,
+    "deck_id": 1,
+    "front": "reshape nedir?",
+    "back": "Bir dizinin eleman sayısını değiştirmeden boyutunu yeniden düzenler.",
+    "created_at": "2026-01-19T04:06:04.341730"
+  },
+  {
+    "id": 4,
+    "deck_id": 2,
+    "front": "CNN nedir?",
+    "back": "CNN (Convolutional Neural Network – Evrişimsel Sinir Ağı), özellikle görüntü, video ve uzamsal verilerin işlenmesi için kullanılan bir derin öğrenme mimarisidir.",
+    "created_at": "2026-01-19T04:08:57.326628"
+  },
+  {
+    "id": 5,
+    "deck_id": 2,
+    "front": "CNN nerelerde kullanılır?",
+    "back": "Yüz tanıma, nesne tespiti, el yazısı tanıma, tıbbi görüntü analizi, otonom araçlar.",
+    "created_at": "2026-01-19T04:11:46.181969"
+  },
+  {
+    "id": 6,
+    "deck_id": 3,
+    "front": "ANN Nedir?",
+    "back": "ANN (Artificial Neural Network – Yapay Sinir Ağı), insan beyninin çalışma prensibinden esinlenerek geliştirilen, verilerden öğrenebilen matematiksel modellerdir.",
+    "created_at": "2026-01-19T04:14:18.879537"
+  },
+  {
+    "id": 7,
+    "deck_id": 3,
+    "front": "ANN kullanım alanları nelerdir?",
+    "back": "Görüntü tanıma, ses tanıma, finansal tahmin, tıbbi teşhis, doğal dil işleme.",
+    "created_at": "2026-01-19T04:15:35.998073"
+  },
+  {
+    "id": 8,
+    "deck_id": 4,
+    "front": "Kapsülleme (Encapsulation) nedir?",
+    "back": "Kapsülleme, sınıf içindeki verilerin dışarıdan doğrudan erişimini kısıtlayarak, kontrollü erişim sağlayan OOP prensibidir.",
+    "created_at": "2026-01-19T04:17:34.532059"
+  },
+  {
+    "id": 9,
+    "deck_id": 4,
+    "front": "Kalıtım (Inheritance) nedir?",
+    "back": "Kalıtım, bir sınıfın başka bir sınıfın özelliklerini ve metotlarını miras almasıdır.",
+    "created_at": "2026-01-19T04:18:05.060823"
+  },
+  {
+    "id": 10,
+    "deck_id": 4,
+    "front": "Soyutlama (Abstraction) nedir?",
+    "back": "Gereksiz detayları gizleyip sadece gerekli özellikleri göstermektir.",
+    "created_at": "2026-01-19T04:18:27.174013"
+  },
+  {
+    "id": 11,
+    "deck_id": 5,
+    "front": "DataFrame nedir?",
+    "back": "Pandas’ın temel veri yapısıdır; satır ve sütunlardan oluşan iki boyutlu tablo gibi düşünülebilir.",
+    "created_at": "2026-01-19T04:20:59.412628"
+  },
+  {
+    "id": 12,
+    "deck_id": 5,
+    "front": "read_csv() nedir?",
+    "back": "CSV dosyalarını Pandas DataFrame olarak okumaya yarayan fonksiyondur.",
+    "created_at": "2026-01-19T04:21:24.636900"
+  },
+  {
+    "id": 13,
+    "deck_id": 5,
+    "front": "groupby() nedir?",
+    "back": "Verileri belirli bir sütuna göre gruplamaya ve üzerinde toplama, ortalama gibi işlemler yapmaya yarar.",
+    "created_at": "2026-01-19T04:21:45.492966"
+  },
+  {
+    "id": 14,
+    "deck_id": 5,
+    "front": "fillna() nedir?",
+    "back": "Boş (NaN) değerleri belirli bir değerle doldurmak için kullanılır.",
+    "created_at": "2026-01-19T04:22:06.316639"
+  },
+  {
+    "id": 15,
+    "deck_id": 6,
+    "front": "Matplotlib nedir?",
+    "back": "Matplotlib, Python’da veri görselleştirme yapmak için kullanılan en yaygın kütüphanelerden biridir.",
+    "created_at": "2026-01-19T04:24:40.676820"
+  },
+  {
+    "id": 16,
+    "deck_id": 6,
+    "front": "plot() nedir?",
+    "back": "Çizgi grafikleri oluşturmak için kullanılan temel fonksiyondur.",
+    "created_at": "2026-01-19T04:25:09.530945"
+  },
+  {
+    "id": 17,
+    "deck_id": 6,
+    "front": "show() nedir?",
+    "back": "Grafiği ekranda görüntülemeyi sağlayan fonksiyondur.",
+    "created_at": "2026-01-19T04:25:34.876457"
+  },
+  {
+    "id": 18,
+    "deck_id": 6,
+    "front": "bar() nedir?",
+    "back": "Çubuk grafikler (bar chart) çizmek için kullanılır.",
+    "created_at": "2026-01-19T04:26:04.349160"
+  },
+  {
+    "id": 19,
+    "deck_id": 7,
+    "front": "if yapısı ne işe yarar?",
+    "back": "if yapısı, verilen bir koşul doğruysa belirli kod bloğunu çalıştırmak için kullanılır. Eğer koşul yanlışsa kod bloğu atlanır.",
+    "created_at": "2026-01-19T04:28:45.356429"
+  },
+  {
+    "id": 20,
+    "deck_id": 7,
+    "front": "for döngüsü ne zaman kullanılır?",
+    "back": "Belirli bir koleksiyon veya aralık üzerinde tekrarlayan işlemleri gerçekleştirmek için kullanılır. Döngü her eleman veya değer için sırayla çalışır.",
+    "created_at": "2026-01-19T04:29:05.684421"
+  },
+  {
+    "id": 21,
+    "deck_id": 7,
+    "front": "while döngüsü ile for döngüsü arasındaki fark nedir?",
+    "back": "while döngüsü, koşul doğru olduğu sürece çalışır ve genellikle tekrar sayısı önceden bilinmez.",
+    "created_at": "2026-01-19T04:29:25.702641"
+  },
+  {
+    "id": 22,
+    "deck_id": 1,
+    "front": "dtype nedir?",
+    "back": "Dizideki elemanların veri tipini belirtir (int, float, bool vb.).",
+    "created_at": "2026-01-19T05:35:50.948859"
+  },
+  {
+    "id": 23,
+    "deck_id": 6,
+    "front": "arange nedir?",
+    "back": "Belirli aralıkta sayılardan oluşan dizi üretir.",
+    "created_at": "2026-01-19T05:36:30.078771"
+  },
+  {
+    "id": 27,
+    "deck_id": 10,
+    "front": "Değişken nedir?",
+    "back": "Veriyi saklamak için kullanılan isimlendirilmiş alandır.",
+    "created_at": "2026-01-19T06:24:00.013809"
+  },
+  {
+    "id": 28,
+    "deck_id": 10,
+    "front": "Python dinamik mi statik mi?",
+    "back": "Dinamik tipli.",
+    "created_at": "2026-01-19T06:24:27.828235"
+  },
+  {
+    "id": 29,
+    "deck_id": 10,
+    "front": "Değişken silme nasıl yapılır?",
+    "back": "del komutu ile yapılır.",
+    "created_at": "2026-01-19T06:25:42.003395"
+  },
+  {
+    "id": 30,
+    "deck_id": 11,
+    "front": "int nedir?",
+    "back": "Tam sayıdır.",
+    "created_at": "2026-01-19T06:30:00.011013"
+  },
+  {
+    "id": 31,
+    "deck_id": 11,
+    "front": "float nedir?",
+    "back": "Ondalıklı sayıdır.",
+    "created_at": "2026-01-19T06:30:22.475405"
+  },
+  {
+    "id": 32,
+    "deck_id": 11,
+    "front": "bool nedir?",
+    "back": "True veya False değeridir.",
+    "created_at": "2026-01-19T06:30:40.241733"
+  },
+  {
+    "id": 33,
+    "deck_id": 12,
+    "front": "== ne yapar?",
+    "back": "Eşitlik kontrolü.",
+    "created_at": "2026-01-19T06:31:34.650947"
+  },
+  {
+    "id": 34,
+    "deck_id": 12,
+    "front": "!= ne yapar?",
+    "back": "Eşit değil mi kontrolü.",
+    "created_at": "2026-01-19T06:31:50.812009"
+  },
+  {
+    "id": 35,
+    "deck_id": 12,
+    "front": "and ne yapar?",
+    "back": "İki koşul da doğruysa True,diğeri durumlarda False olur.",
+    "created_at": "2026-01-19T06:33:02.116785"
+  },
+  {
+    "id": 36,
+    "deck_id": 12,
+    "front": "or ne yapar?",
+    "back": "Biri doğruysa veya ki koşul da doğruysa True,iki koşulda yanlışsa False olur.",
+    "created_at": "2026-01-19T06:34:43.155405"
+  },
+  {
+    "id": 37,
+    "deck_id": 12,
+    "front": "not ne yapar?",
+    "back": "Sonucu tersine çevirir.",
+    "created_at": "2026-01-19T06:35:18.835667"
+  },
+  {
+    "id": 38,
+    "deck_id": 13,
+    "front": "Fonksiyon nedir?",
+    "back": "Tekrar kullanılabilir kod bloğu.",
+    "created_at": "2026-01-19T07:58:57.182311"
+  },
+  {
+    "id": 39,
+    "deck_id": 13,
+    "front": "def ne işe yarar?",
+    "back": "Fonksiyon tanımlar.",
+    "created_at": "2026-01-19T07:59:18.845706"
+  },
+  {
+    "id": 40,
+    "deck_id": 13,
+    "front": "return ne yapar?",
+    "back": "Değer döndürür.",
+    "created_at": "2026-01-19T07:59:53.709658"
+  },
+  {
+    "id": 42,
+    "deck_id": 14,
+    "front": "Liste nedir?",
+    "back": "Sıralı veri yapısı.",
+    "created_at": "2026-01-19T08:04:41.046199"
+  },
+  {
+    "id": 43,
+    "deck_id": 14,
+    "front": "append ne yapar?",
+    "back": "Sona ekler.",
+    "created_at": "2026-01-19T08:05:00.758239"
+  },
+  {
+    "id": 44,
+    "deck_id": 14,
+    "front": "remove ne yapar?",
+    "back": "Eleman siler.",
+    "created_at": "2026-01-19T08:05:25.078775"
+  }
+]

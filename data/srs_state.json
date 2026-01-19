@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "card_id": 1,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-20",
+    "last_quality": 4
+  },
+  {
+    "id": 2,
+    "card_id": 2,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.36,
+    "due_date": "2026-01-20",
+    "last_quality": 3
+  },
+  {
+    "id": 3,
+    "card_id": 3,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-20",
+    "last_quality": 4
+  },
+  {
+    "id": 4,
+    "card_id": 4,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.36,
+    "due_date": "2026-01-20",
+    "last_quality": 3
+  },
+  {
+    "id": 5,
+    "card_id": 5,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.1799999999999997,
+    "due_date": "2026-01-20",
+    "last_quality": 2
+  },
+  {
+    "id": 6,
+    "card_id": 6,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.6,
+    "due_date": "2026-01-20",
+    "last_quality": 5
+  },
+  {
+    "id": 7,
+    "card_id": 7,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-20",
+    "last_quality": 4
+  },
+  {
+    "id": 8,
+    "card_id": 8,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.6,
+    "due_date": "2026-01-20",
+    "last_quality": 5
+  },
+  {
+    "id": 9,
+    "card_id": 9,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.36,
+    "due_date": "2026-01-20",
+    "last_quality": 3
+  },
+  {
+    "id": 10,
+    "card_id": 10,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.36,
+    "due_date": "2026-01-20",
+    "last_quality": 3
+  },
+  {
+    "id": 11,
+    "card_id": 11,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.1799999999999997,
+    "due_date": "2026-01-20",
+    "last_quality": 2
+  },
+  {
+    "id": 12,
+    "card_id": 12,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.6,
+    "due_date": "2026-01-20",
+    "last_quality": 5
+  },
+  {
+    "id": 13,
+    "card_id": 13,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.6,
+    "due_date": "2026-01-20",
+    "last_quality": 5
+  },
+  {
+    "id": 14,
+    "card_id": 14,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.1799999999999997,
+    "due_date": "2026-01-20",
+    "last_quality": 2
+  },
+  {
+    "id": 15,
+    "card_id": 15,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-20",
+    "last_quality": 4
+  },
+  {
+    "id": 16,
+    "card_id": 16,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.6,
+    "due_date": "2026-01-20",
+    "last_quality": 5
+  },
+  {
+    "id": 17,
+    "card_id": 17,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.36,
+    "due_date": "2026-01-20",
+    "last_quality": 3
+  },
+  {
+    "id": 18,
+    "card_id": 18,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.1799999999999997,
+    "due_date": "2026-01-20",
+    "last_quality": 2
+  },
+  {
+    "id": 19,
+    "card_id": 19,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.36,
+    "due_date": "2026-01-20",
+    "last_quality": 3
+  },
+  {
+    "id": 20,
+    "card_id": 20,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.6,
+    "due_date": "2026-01-20",
+    "last_quality": 5
+  },
+  {
+    "id": 21,
+    "card_id": 21,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.36,
+    "due_date": "2026-01-20",
+    "last_quality": 3
+  },
+  {
+    "id": 22,
+    "card_id": 22,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.6,
+    "due_date": "2026-01-20",
+    "last_quality": 5
+  },
+  {
+    "id": 23,
+    "card_id": 23,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.6,
+    "due_date": "2026-01-20",
+    "last_quality": 5
+  },
+  {
+    "id": 27,
+    "card_id": 27,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.6,
+    "due_date": "2026-01-20",
+    "last_quality": 5
+  },
+  {
+    "id": 28,
+    "card_id": 28,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.36,
+    "due_date": "2026-01-20",
+    "last_quality": 3
+  },
+  {
+    "id": 29,
+    "card_id": 29,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.1799999999999997,
+    "due_date": "2026-01-20",
+    "last_quality": 2
+  },
+  {
+    "id": 30,
+    "card_id": 30,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-19",
+    "last_quality": 0
+  },
+  {
+    "id": 31,
+    "card_id": 31,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-19",
+    "last_quality": 0
+  },
+  {
+    "id": 32,
+    "card_id": 32,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-19",
+    "last_quality": 0
+  },
+  {
+    "id": 33,
+    "card_id": 33,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-19",
+    "last_quality": 0
+  },
+  {
+    "id": 34,
+    "card_id": 34,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-19",
+    "last_quality": 0
+  },
+  {
+    "id": 35,
+    "card_id": 35,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-19",
+    "last_quality": 0
+  },
+  {
+    "id": 36,
+    "card_id": 36,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-19",
+    "last_quality": 0
+  },
+  {
+    "id": 37,
+    "card_id": 37,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-19",
+    "last_quality": 0
+  },
+  {
+    "id": 38,
+    "card_id": 38,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-19",
+    "last_quality": 0
+  },
+  {
+    "id": 39,
+    "card_id": 39,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-19",
+    "last_quality": 0
+  },
+  {
+    "id": 40,
+    "card_id": 40,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-19",
+    "last_quality": 0
+  },
+  {
+    "id": 42,
+    "card_id": 42,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-19",
+    "last_quality": 0
+  },
+  {
+    "id": 43,
+    "card_id": 43,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-19",
+    "last_quality": 0
+  },
+  {
+    "id": 44,
+    "card_id": 44,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-19",
+    "last_quality": 0
+  }
+]
